@@ -1,6 +1,6 @@
 # multi_x
 
-[![Pub](https://img.shields.io/pub/v/multi_x.svg?style=flat-square)](https://pub.dartlang.org/packages/multi_x)
+
 
 Provide an easy way to make responsive and adaptive Flutter multi-platform applications.
 
